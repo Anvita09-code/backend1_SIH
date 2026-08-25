@@ -12,3 +12,8 @@ class ValidationConfig:
 @dataclass(frozen=True)
 class CalibrationRegistry:
     validation: ValidationConfig = ValidationConfig()
+
+# Dewpoint Magnus Approximation & Consistency Parameters (Phase 5C)
+MAGNUS_A = 17.625
+MAGNUS_B = 243.04
+DEWPOINT_TOLERANCE_C = 0.5
