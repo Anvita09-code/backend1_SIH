@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "member1-analytics"
+version = "0.1.0"
+description = "Member 1 Feature Contract and History Engine"
+requires-python = ">=3.10"
+dependencies = []
