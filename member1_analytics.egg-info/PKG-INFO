@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: member1-analytics
+Version: 0.1.0
+Summary: Member 1 Feature Contract and History Engine
+Requires-Python: >=3.10

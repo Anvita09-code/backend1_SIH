@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "station_id": "AWS_001",
+    "timestamp": "2026-01-01T00:00:00Z",
+    "temperature_c": 24.5,
+    "relative_humidity_pct": 55.0,
+    "pressure_hpa": 1013.25
+  }
+]
